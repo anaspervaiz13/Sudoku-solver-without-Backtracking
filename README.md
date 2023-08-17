@@ -14,6 +14,6 @@ techniques and strategies used:
 * swordfish
 * jellyfish
 
-If the above technique do not complete the puzzle then the Nishio technique is applied, which involves using randomness for selection.
+If the above techniques do not complete the puzzle then the Nishio technique is applied, which involves using randomness for selection.
 
 This Solver has been Tested on 1 million Sudoku puzzles with 100% accuracy
