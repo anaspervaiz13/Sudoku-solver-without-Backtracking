@@ -2,17 +2,17 @@
 Sudoku solver without Brute Force (Backtracking). Implements advance logic-based solving techniques and strategies
 
 techniques and strategies used:
--naked triple
--naked quad
--pointing triple
--hidden pair
--hidden triple
--hidden quad
--xwing
--ywing
--xyzwing
--swordfish
--jellyfish
+* naked triple
+* naked quad
+* pointing triple
+* hidden pair
+* hidden triple
+* hidden quad
+* xwing
+* ywing
+* xyzwing
+* swordfish
+* jellyfish
 
 If the above technique do not complete the puzzle then the Nishio technique is applied, which involves using randomness for selection.
 
